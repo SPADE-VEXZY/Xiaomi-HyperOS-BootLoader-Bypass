@@ -9,6 +9,7 @@
 - ❌ Blocked: Xiaomi has enforced verification. Unlocking is only possible with an authorized account.
 - ⚠️ Unsupported: Xiaomi prohibits unlocking this device, regardless of permissions.
 - ❓ Unknown: The unlock policy for this device could not be found in Xiaomi servers. Please refer to the actual situation. (Feedback required)
+- hello-world
 
 ----
 
@@ -107,3 +108,4 @@
 | Redmi Pad | yunluo | 2022-10-27 | MIUI Pad | ✔️ Opening |
 | Redmi Pad Pro | dizi | 2024-04-10 | Xiaomi HyperOS | ❌ Blocked |
 | Redmi Pad Pro 5G | ruan | 2024-04-10 | Xiaomi HyperOS | ❌ Blocked |
+
